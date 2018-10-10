@@ -1,0 +1,1531 @@
+[
+    {
+        "about": [
+            {
+                "name": "Josh Gordon",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/5205f824-39ab-4afa-be30-ebafb131be20"
+            },
+            {
+                "name": "Tom Brady",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/225835fe-facd-1623-61a8-5f351005181d"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-18T11:40:00.0000000Z",
+        "description": "The New England Patriots traded for a much-needed deep threat in Josh Gordon on Monday, which has the fan base dreaming of the Randy Moss years. Quarterback Tom Brady, however, pumped the brakes on Gordon stepping in to become a world-beating presence ...",
+        "headlineSentiment": 0.12727686762809753,
+        "image": {
+            "analysis": {
+                "adult": {
+                    "adultScore": 0.018594298511743546,
+                    "isAdultContent": false,
+                    "isRacyContent": false,
+                    "racyScore": 0.02246636152267456
+                },
+                "categories": [
+                    {
+                        "name": "others_",
+                        "score": 0.11328125
+                    }
+                ],
+                "color": {
+                    "accentColor": "AD331E",
+                    "dominantColorBackground": "Green",
+                    "dominantColorForeground": "Black",
+                    "dominantColors": [
+                        "Green",
+                        "Black"
+                    ],
+                    "isBwImg": false
+                },
+                "description": {
+                    "captions": [
+                        {
+                            "confidence": 0.4501685252476818,
+                            "text": "a baseball player holding a bat on a field"
+                        }
+                    ],
+                    "tags": [
+                        "grass",
+                        "person",
+                        "outdoor",
+                        "baseball",
+                        "player",
+                        "field",
+                        "man",
+                        "game",
+                        "ball",
+                        "throwing",
+                        "uniform",
+                        "batter",
+                        "bat",
+                        "catcher",
+                        "crowd",
+                        "pitch",
+                        "pitcher",
+                        "holding",
+                        "base",
+                        "playing",
+                        "standing",
+                        "swinging",
+                        "plate",
+                        "air",
+                        "umpire"
+                    ]
+                },
+                "faces": [],
+                "imageType": {
+                    "clipArtType": 0,
+                    "lineDrawingType": 0
+                },
+                "metadata": {
+                    "format": "Jpeg",
+                    "height": 150,
+                    "width": 200
+                },
+                "requestId": "cf436309-e3c8-47c1-a708-f65a3aae8d2f",
+                "tags": [
+                    {
+                        "confidence": 0.9996935129165649,
+                        "name": "grass"
+                    },
+                    {
+                        "confidence": 0.9992594122886658,
+                        "name": "person"
+                    },
+                    {
+                        "confidence": 0.9950855374336243,
+                        "name": "outdoor"
+                    },
+                    {
+                        "confidence": 0.9864498972892761,
+                        "name": "player"
+                    },
+                    {
+                        "confidence": 0.7755470871925354,
+                        "name": "field"
+                    },
+                    {
+                        "confidence": 0.7375926971435547,
+                        "name": "sport"
+                    },
+                    {
+                        "confidence": 0.5777477025985718,
+                        "name": "game"
+                    },
+                    {
+                        "confidence": 0.2556779086589813,
+                        "name": "catcher"
+                    },
+                    {
+                        "confidence": 0.23621030151844025,
+                        "name": "crowd"
+                    },
+                    {
+                        "confidence": 0.23211927711963654,
+                        "name": "pitch"
+                    },
+                    {
+                        "confidence": 0.2246699333190918,
+                        "name": "pitcher"
+                    },
+                    {
+                        "confidence": 0.20905950665473938,
+                        "hint": "sport",
+                        "name": "football"
+                    },
+                    {
+                        "confidence": 0.1916634440422058,
+                        "name": "base"
+                    }
+                ]
+            },
+            "contentUrl": "http://static.nfl.com/static/content/public/photo/2018/08/27/0ap3000000951798_thumbnail_200_150.jpg",
+            "faces": [],
+            "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ON.E94C2C5098C5B1A67676BE8A189EBD77&pid=News",
+                "height": 150,
+                "width": 200
+            }
+        },
+        "name": "Brady doesn't want to heap expectations on Gordon",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "69995e9c-2a89-f5c8-e1c3-3a62cce0061d",
+                "matches": [
+                    {
+                        "length": 24,
+                        "offset": 0,
+                        "text": "The New England Patriots"
+                    }
+                ],
+                "name": "New England Patriots",
+                "wikipediaId": "New England Patriots",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/New_England_Patriots"
+            },
+            {
+                "bingId": "4e6c1101-d94f-8b5f-ecb4-55b8753ddc45",
+                "matches": [
+                    {
+                        "length": 11,
+                        "offset": 145,
+                        "text": "Quarterback"
+                    }
+                ],
+                "name": "Quarterback",
+                "wikipediaId": "Quarterback",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Quarterback"
+            },
+            {
+                "bingId": "3e6d1778-b406-32d0-f689-e5d084299719",
+                "matches": [
+                    {
+                        "length": 10,
+                        "offset": 127,
+                        "text": "Randy Moss"
+                    }
+                ],
+                "name": "Randy Moss",
+                "wikipediaId": "Randy Moss",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Randy_Moss"
+            },
+            {
+                "bingId": "225835fe-facd-1623-61a8-5f351005181d",
+                "matches": [
+                    {
+                        "length": 9,
+                        "offset": 157,
+                        "text": "Tom Brady"
+                    }
+                ],
+                "name": "Tom Brady",
+                "wikipediaId": "Tom Brady",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Brady"
+            }
+        ],
+        "textKeyPhrases": [
+            "Josh Gordon",
+            "Randy Moss years",
+            "fan base dreaming",
+            "deep threat",
+            "Quarterback Tom Brady",
+            "New England Patriots",
+            "world",
+            "brakes",
+            "presence"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963801/article/brady-doesnt-want-to-heap-expectations-on-gordon",
+        "video": {
+            "name": "Brady doesn't want to heap expectations on Gordon",
+            "thumbnail": {
+                "height": 150,
+                "width": 200
+            },
+            "thumbnailUrl": "https://www.bing.com/th?id=ON.E94C2C5098C5B1A67676BE8A189EBD77&pid=News"
+        }
+    },
+    {
+        "about": [
+            {
+                "name": "Ryan Fitzpatrick",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/78524554-1844-47fe-9d85-8a1d7eda03ae"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            },
+            {
+                "name": "Fizzle",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/90383a5b-8e64-95ca-9482-4f2719948662"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-18T03:43:00.0000000Z",
+        "description": "Gregg Rosenthal catches you up on everything you need to know as we turn from Week 2 to Week 3. It's not all on the offensive line. It's not all on Seahawks' instantly embattled offensive coordinator Brian Schottenheimer. For problems as pervasive as those ...",
+        "headlineSentiment": 0.9417963027954102,
+        "image": {
+            "analysis": {
+                "adult": {
+                    "adultScore": 0.006365504115819931,
+                    "isAdultContent": false,
+                    "isRacyContent": false,
+                    "racyScore": 0.02241397649049759
+                },
+                "categories": [
+                    {
+                        "name": "others_",
+                        "score": 0.2421875
+                    }
+                ],
+                "color": {
+                    "accentColor": "A03C2B",
+                    "dominantColorBackground": "Grey",
+                    "dominantColorForeground": "White",
+                    "dominantColors": [
+                        "White",
+                        "Grey",
+                        "Black"
+                    ],
+                    "isBwImg": false
+                },
+                "description": {
+                    "captions": [
+                        {
+                            "confidence": 0.7116719570018409,
+                            "text": "a batter catcher and umpire during a baseball game"
+                        }
+                    ],
+                    "tags": [
+                        "person",
+                        "baseball",
+                        "player",
+                        "outdoor",
+                        "grass",
+                        "bat",
+                        "batter",
+                        "professional",
+                        "field",
+                        "game",
+                        "catcher",
+                        "holding",
+                        "ball",
+                        "man",
+                        "running",
+                        "home",
+                        "crowd",
+                        "uniform",
+                        "umpire",
+                        "ready",
+                        "base",
+                        "pitch",
+                        "plate",
+                        "standing",
+                        "swinging",
+                        "group",
+                        "pitcher",
+                        "playing"
+                    ]
+                },
+                "faces": [],
+                "imageType": {
+                    "clipArtType": 0,
+                    "lineDrawingType": 0
+                },
+                "metadata": {
+                    "format": "Jpeg",
+                    "height": 150,
+                    "width": 200
+                },
+                "requestId": "da538098-13f6-47a0-8dc4-c22cc6c6f4f9",
+                "tags": [
+                    {
+                        "confidence": 0.9999698400497437,
+                        "name": "person"
+                    },
+                    {
+                        "confidence": 0.9999690055847168,
+                        "hint": "sport",
+                        "name": "baseball"
+                    },
+                    {
+                        "confidence": 0.999320387840271,
+                        "name": "player"
+                    },
+                    {
+                        "confidence": 0.9958456158638,
+                        "name": "outdoor"
+                    },
+                    {
+                        "confidence": 0.7697505950927734,
+                        "name": "batter"
+                    },
+                    {
+                        "confidence": 0.7683994174003601,
+                        "name": "professional"
+                    },
+                    {
+                        "confidence": 0.6658214330673218,
+                        "name": "game"
+                    },
+                    {
+                        "confidence": 0.6635560393333435,
+                        "name": "catcher"
+                    },
+                    {
+                        "confidence": 0.31090208888053894,
+                        "name": "crowd"
+                    },
+                    {
+                        "confidence": 0.28463512659072876,
+                        "name": "base"
+                    },
+                    {
+                        "confidence": 0.2752768397331238,
+                        "name": "pitch"
+                    }
+                ]
+            },
+            "contentUrl": "http://static.nfl.com/static/content/public/photo/2018/09/17/0ap3000000963744_thumbnail_200_150.jpg",
+            "faces": [],
+            "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ON.7F99466F4946714143CF96C15AC7C4E0&pid=News",
+                "height": 150,
+                "width": 200
+            }
+        },
+        "name": "Debrief, Week 2: Seahawks fizzle; Mahomes, Fitzpatrick dazzle",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "322e35a1-7776-284f-9fda-760f35833804",
+                "matches": [
+                    {
+                        "length": 20,
+                        "offset": 200,
+                        "text": "Brian Schottenheimer"
+                    }
+                ],
+                "name": "Brian Schottenheimer",
+                "wikipediaId": "Brian Schottenheimer",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Schottenheimer"
+            },
+            {
+                "bingId": "1bf844db-8225-f90c-a78e-1787fb8af0ce",
+                "matches": [
+                    {
+                        "length": 8,
+                        "offset": 148,
+                        "text": "Seahawks"
+                    }
+                ],
+                "name": "Seattle Seahawks",
+                "wikipediaId": "Seattle Seahawks",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Seattle_Seahawks"
+            }
+        ],
+        "textKeyPhrases": [
+            "Week",
+            "offensive line",
+            "embattled offensive coordinator Brian Schottenheimer",
+            "Seahawks'",
+            "Gregg Rosenthal",
+            "problems"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963431/article/debrief-week-2-seahawks-fizzle-mahomes-fitzpatrick-dazzle",
+        "video": {
+            "name": "Debrief, Week 2: Seahawks fizzle; Mahomes, Fitzpatrick dazzle",
+            "thumbnail": {
+                "height": 150,
+                "width": 200
+            },
+            "thumbnailUrl": "https://www.bing.com/th?id=ON.7F99466F4946714143CF96C15AC7C4E0&pid=News"
+        }
+    },
+    {
+        "about": [
+            {
+                "name": "Seattle Seahawks",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1bf844db-8225-f90c-a78e-1787fb8af0ce"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-18T03:32:00.0000000Z",
+        "description": "Vic Fangio's swarming Chicago defense sacked Russell Wilson six times and forced a pair of fourth-quarter turnovers to seal the Bears' 24-17 victory over the Seattle Seahawks in Week 2. Here's what we learned on Monday Night Football 1. Sebastian ...",
+        "headlineSentiment": 0.8886430263519287,
+        "image": {
+            "analysis": {
+                "adult": {
+                    "adultScore": 0.007882139645516872,
+                    "isAdultContent": false,
+                    "isRacyContent": false,
+                    "racyScore": 0.011067772284150124
+                },
+                "categories": [
+                    {
+                        "name": "people_crowd",
+                        "score": 0.90234375
+                    }
+                ],
+                "color": {
+                    "accentColor": "505924",
+                    "dominantColorBackground": "Black",
+                    "dominantColorForeground": "Black",
+                    "dominantColors": [
+                        "Black",
+                        "Grey"
+                    ],
+                    "isBwImg": false
+                },
+                "description": {
+                    "captions": [
+                        {
+                            "confidence": 0.9501637806683595,
+                            "text": "a group of football players on the field"
+                        }
+                    ],
+                    "tags": [
+                        "grass",
+                        "person",
+                        "football",
+                        "outdoor",
+                        "player",
+                        "building",
+                        "field",
+                        "group",
+                        "playing",
+                        "running",
+                        "man",
+                        "ball",
+                        "game",
+                        "soccer",
+                        "crowd",
+                        "team",
+                        "people",
+                        "baseball",
+                        "standing"
+                    ]
+                },
+                "faces": [],
+                "imageType": {
+                    "clipArtType": 0,
+                    "lineDrawingType": 0
+                },
+                "metadata": {
+                    "format": "Jpeg",
+                    "height": 150,
+                    "width": 200
+                },
+                "requestId": "96b952bf-e0a1-4e73-8992-18c148cebc0e",
+                "tags": [
+                    {
+                        "confidence": 0.9999514818191528,
+                        "name": "grass"
+                    },
+                    {
+                        "confidence": 0.9829713702201843,
+                        "name": "person"
+                    },
+                    {
+                        "confidence": 0.9618308544158936,
+                        "hint": "sport",
+                        "name": "football"
+                    },
+                    {
+                        "confidence": 0.9510164260864258,
+                        "name": "outdoor"
+                    },
+                    {
+                        "confidence": 0.8404342532157898,
+                        "name": "player"
+                    },
+                    {
+                        "confidence": 0.8356644511222839,
+                        "name": "building"
+                    },
+                    {
+                        "confidence": 0.7975998520851135,
+                        "name": "field"
+                    },
+                    {
+                        "confidence": 0.6998249292373657,
+                        "name": "group"
+                    }
+                ]
+            },
+            "contentUrl": "http://static.nfl.com/static/content/public/photo/2018/09/17/0ap3000000963743_thumbnail_200_150.jpg",
+            "faces": [],
+            "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ON.F773C0FD2E47B8D90D1E648B3DCE2519&pid=News",
+                "height": 150,
+                "width": 200
+            }
+        },
+        "name": "What we learned from Bears' victory over Seahawks",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "cbf1fe71-82eb-5d62-045e-6e7ac3ea3360",
+                "matches": [
+                    {
+                        "length": 21,
+                        "offset": 212,
+                        "text": "Monday Night Football"
+                    }
+                ],
+                "name": "Monday Night Football",
+                "wikipediaId": "Monday Night Football",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Monday_Night_Football"
+            },
+            {
+                "bingId": "1bf844db-8225-f90c-a78e-1787fb8af0ce",
+                "matches": [
+                    {
+                        "length": 16,
+                        "offset": 158,
+                        "text": "Seattle Seahawks"
+                    }
+                ],
+                "name": "Seattle Seahawks",
+                "wikipediaId": "Seattle Seahawks",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Seattle_Seahawks"
+            },
+            {
+                "bingId": "290ad187-9a94-aa0e-70da-977df6ee8a44",
+                "matches": [
+                    {
+                        "length": 14,
+                        "offset": 45,
+                        "text": "Russell Wilson"
+                    }
+                ],
+                "name": "Russell Wilson",
+                "wikipediaId": "Russell Wilson",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Russell_Wilson"
+            },
+            {
+                "bingId": "04320aa0-e19d-4582-9be5-c7a0ba3af2d3",
+                "matches": [
+                    {
+                        "length": 10,
+                        "offset": 0,
+                        "text": "Vic Fangio"
+                    }
+                ],
+                "name": "Vic Fangio",
+                "wikipediaId": "Vic Fangio",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Vic_Fangio"
+            },
+            {
+                "bingId": "e702bdcb-132f-abd7-7049-22e1ee818e1f",
+                "matches": [
+                    {
+                        "length": 9,
+                        "offset": 237,
+                        "text": "Sebastian"
+                    }
+                ],
+                "name": "Sebastian Janikowski",
+                "wikipediaId": "Sebastian Janikowski",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Janikowski"
+            },
+            {
+                "bingId": "b55672c5-4ef4-1c25-5a72-1186539a4f2a",
+                "matches": [
+                    {
+                        "length": 7,
+                        "offset": 22,
+                        "text": "Chicago"
+                    },
+                    {
+                        "length": 5,
+                        "offset": 128,
+                        "text": "Bears"
+                    }
+                ],
+                "name": "Chicago Bears",
+                "wikipediaId": "Chicago Bears",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Chicago_Bears"
+            }
+        ],
+        "textKeyPhrases": [
+            "Vic Fangio's swarming Chicago defense sacked Russell Wilson",
+            "times",
+            "victory",
+            "pair",
+            "Seattle Seahawks",
+            "Week",
+            "Bears",
+            "quarter turnovers",
+            "Night Football"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963755/article/what-we-learned-from-bears-victory-over-seahawks",
+        "video": {
+            "name": "What we learned from Bears' victory over Seahawks",
+            "thumbnail": {
+                "height": 150,
+                "width": 200
+            },
+            "thumbnailUrl": "https://www.bing.com/th?id=ON.F773C0FD2E47B8D90D1E648B3DCE2519&pid=News"
+        }
+    },
+    {
+        "about": [
+            {
+                "name": "Russell Wilson",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/290ad187-9a94-aa0e-70da-977df6ee8a44"
+            },
+            {
+                "name": "Seattle Seahawks",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1bf844db-8225-f90c-a78e-1787fb8af0ce"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-18T03:32:00.0000000Z",
+        "description": "Vic Fangio's swarming Chicago defense sacked Russell Wilson six times and forced a pair of fourth-quarter turnovers to seal the Bears' 24-17 victory over the Seattle Seahawks in Week 2. Here's what we learned on Monday Night Football 1. Sebastian ...",
+        "headlineSentiment": 0.5,
+        "name": "Bears' defense snuffs out Russell Wilson, Seahawks",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "cbf1fe71-82eb-5d62-045e-6e7ac3ea3360",
+                "matches": [
+                    {
+                        "length": 21,
+                        "offset": 212,
+                        "text": "Monday Night Football"
+                    }
+                ],
+                "name": "Monday Night Football",
+                "wikipediaId": "Monday Night Football",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Monday_Night_Football"
+            },
+            {
+                "bingId": "1bf844db-8225-f90c-a78e-1787fb8af0ce",
+                "matches": [
+                    {
+                        "length": 16,
+                        "offset": 158,
+                        "text": "Seattle Seahawks"
+                    }
+                ],
+                "name": "Seattle Seahawks",
+                "wikipediaId": "Seattle Seahawks",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Seattle_Seahawks"
+            },
+            {
+                "bingId": "290ad187-9a94-aa0e-70da-977df6ee8a44",
+                "matches": [
+                    {
+                        "length": 14,
+                        "offset": 45,
+                        "text": "Russell Wilson"
+                    }
+                ],
+                "name": "Russell Wilson",
+                "wikipediaId": "Russell Wilson",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Russell_Wilson"
+            },
+            {
+                "bingId": "04320aa0-e19d-4582-9be5-c7a0ba3af2d3",
+                "matches": [
+                    {
+                        "length": 10,
+                        "offset": 0,
+                        "text": "Vic Fangio"
+                    }
+                ],
+                "name": "Vic Fangio",
+                "wikipediaId": "Vic Fangio",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Vic_Fangio"
+            },
+            {
+                "bingId": "e702bdcb-132f-abd7-7049-22e1ee818e1f",
+                "matches": [
+                    {
+                        "length": 9,
+                        "offset": 237,
+                        "text": "Sebastian"
+                    }
+                ],
+                "name": "Sebastian Janikowski",
+                "wikipediaId": "Sebastian Janikowski",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Janikowski"
+            },
+            {
+                "bingId": "b55672c5-4ef4-1c25-5a72-1186539a4f2a",
+                "matches": [
+                    {
+                        "length": 7,
+                        "offset": 22,
+                        "text": "Chicago"
+                    },
+                    {
+                        "length": 5,
+                        "offset": 128,
+                        "text": "Bears"
+                    }
+                ],
+                "name": "Chicago Bears",
+                "wikipediaId": "Chicago Bears",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Chicago_Bears"
+            }
+        ],
+        "textKeyPhrases": [
+            "Vic Fangio's swarming Chicago defense sacked Russell Wilson",
+            "times",
+            "victory",
+            "pair",
+            "Seattle Seahawks",
+            "Week",
+            "Bears",
+            "quarter turnovers",
+            "Night Football"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963755/article/bears-defense-snuffs-out-russell-wilson-seahawks",
+        "video": {
+            "name": "Bears' defense snuffs out Russell Wilson, Seahawks",
+            "thumbnail": {
+                "height": 150,
+                "width": 200
+            },
+            "thumbnailUrl": "https://www.bing.com/th?id=ON.F773C0FD2E47B8D90D1E648B3DCE2519&pid=News"
+        }
+    },
+    {
+        "about": [
+            {
+                "name": "Ryan Fitzpatrick",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/78524554-1844-47fe-9d85-8a1d7eda03ae"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-18T00:21:00.0000000Z",
+        "description": "Despite his choice of postgame attire, Ryan Fitzpatrick is more NBA Jam than Grand Theft Auto Vice City right now. At least that's what DeSean Jackson indicated on NFL Total Access on Monday when he said the Tampa Bay Buccaneers need to stay with ...",
+        "headlineSentiment": 0.5,
+        "name": "DeSean on Fitzpatrick: 'You can't take the hot man out'",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "6305118a-308a-4cd6-9f23-ecf4015958ea",
+                "matches": [
+                    {
+                        "length": 20,
+                        "offset": 208,
+                        "text": "Tampa Bay Buccaneers"
+                    }
+                ],
+                "name": "2017 Tampa Bay Buccaneers season",
+                "wikipediaId": "2017 Tampa Bay Buccaneers season",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/2017_Tampa_Bay_Buccaneers_season"
+            },
+            {
+                "bingId": "78524554-1844-47fe-9d85-8a1d7eda03ae",
+                "matches": [
+                    {
+                        "length": 16,
+                        "offset": 39,
+                        "text": "Ryan Fitzpatrick"
+                    }
+                ],
+                "name": "Ryan Fitzpatrick",
+                "wikipediaId": "Ryan Fitzpatrick",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Fitzpatrick"
+            },
+            {
+                "bingId": "7848f3ef-8220-ffc5-94a4-a9a6b5b64c4a",
+                "matches": [
+                    {
+                        "length": 14,
+                        "offset": 136,
+                        "text": "DeSean Jackson"
+                    }
+                ],
+                "name": "DeSean Jackson",
+                "wikipediaId": "DeSean Jackson",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/DeSean_Jackson"
+            }
+        ],
+        "textKeyPhrases": [
+            "NBA Jam",
+            "Ryan Fitzpatrick",
+            "Grand Theft Auto Vice City",
+            "choice of postgame attire",
+            "DeSean Jackson",
+            "NFL Total Access",
+            "Tampa Bay Buccaneers"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963663/article/desean-on-fitzpatrick-you-cant-take-the-hot-man-out",
+        "video": {
+            "name": "DeSean on Fitzpatrick: 'You can't take the hot man out'",
+            "thumbnail": {
+                "height": 150,
+                "width": 200
+            },
+            "thumbnailUrl": "https://www.bing.com/th?id=ON.DACE1B8656068276541FE41EB9F3B4EE&pid=News"
+        }
+    },
+    {
+        "about": [
+            {
+                "name": "Jakob von Washington",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/1d26dcbc-fd1d-e75f-ae5d-d3a5a2efb34a"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            },
+            {
+                "name": "Wire",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/ba4323d3-380e-6861-6ab0-c6097a6a0f80"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-18T00:04:00.0000000Z",
+        "description": "Our Waiver Wire column covers all of the big-ticket adds, but the Deep Dive is for leagues with intensive waiver pools. For this column, we'll try to focus on players that are less than one-third (33%) owned in NFL.com leagues. Fantasy football is a ...",
+        "headlineSentiment": 0.5,
+        "image": {
+            "analysis": {
+                "adult": {
+                    "adultScore": 0.003670555306598544,
+                    "isAdultContent": false,
+                    "isRacyContent": false,
+                    "racyScore": 0.005472623743116856
+                },
+                "categories": [
+                    {
+                        "name": "people_crowd",
+                        "score": 0.86328125
+                    }
+                ],
+                "color": {
+                    "accentColor": "BF850C",
+                    "dominantColorBackground": "Brown",
+                    "dominantColorForeground": "Black",
+                    "dominantColors": [
+                        "Black",
+                        "Brown",
+                        "Grey"
+                    ],
+                    "isBwImg": false
+                },
+                "description": {
+                    "captions": [
+                        {
+                            "confidence": 0.8162149960080827,
+                            "text": "a crowd of people watching a baseball game"
+                        }
+                    ],
+                    "tags": [
+                        "person",
+                        "outdoor",
+                        "game",
+                        "sport",
+                        "player",
+                        "crowd",
+                        "man",
+                        "grass",
+                        "baseball",
+                        "watching",
+                        "holding",
+                        "front",
+                        "bat",
+                        "ball",
+                        "batter",
+                        "standing",
+                        "field",
+                        "riding",
+                        "large",
+                        "playing",
+                        "people",
+                        "group",
+                        "swinging",
+                        "wearing",
+                        "crowded",
+                        "catcher",
+                        "board",
+                        "pitch"
+                    ]
+                },
+                "faces": [],
+                "imageType": {
+                    "clipArtType": 0,
+                    "lineDrawingType": 0
+                },
+                "metadata": {
+                    "format": "Jpeg",
+                    "height": 150,
+                    "width": 200
+                },
+                "requestId": "0ee10524-e826-4233-bba7-23e2a35b6815",
+                "tags": [
+                    {
+                        "confidence": 0.9989256262779236,
+                        "name": "person"
+                    },
+                    {
+                        "confidence": 0.9438221454620361,
+                        "name": "outdoor"
+                    },
+                    {
+                        "confidence": 0.8896837830543518,
+                        "hint": "sport",
+                        "name": "athletic game"
+                    },
+                    {
+                        "confidence": 0.8818041086196899,
+                        "name": "sport"
+                    },
+                    {
+                        "confidence": 0.8516005873680115,
+                        "name": "player"
+                    },
+                    {
+                        "confidence": 0.8373042345046997,
+                        "name": "crowd"
+                    },
+                    {
+                        "confidence": 0.4843529760837555,
+                        "name": "watching"
+                    }
+                ]
+            },
+            "contentUrl": "http://static.nfl.com/static/content/public/photo/2018/09/17/0ap3000000963611_thumbnail_200_150.jpg",
+            "faces": [],
+            "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ON.35B6DD2BFEBC663158CDE0680039679C&pid=News",
+                "height": 150,
+                "width": 200
+            }
+        },
+        "name": "James Washington Leads Week 3 Waiver Wire Deep Dive",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "b612470d-29e5-3e13-8b13-bac4c54f2569",
+                "matches": [
+                    {
+                        "length": 8,
+                        "offset": 62,
+                        "text": "the Deep"
+                    }
+                ],
+                "name": "The Deep (1977 film)",
+                "wikipediaId": "The Deep (1977 film)",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Deep_(1977_film)"
+            },
+            {
+                "bingId": "c0c5b3d6-36f8-ee40-f086-a775c10e569f",
+                "matches": [
+                    {
+                        "length": 8,
+                        "offset": 236,
+                        "text": "football"
+                    }
+                ],
+                "name": "American football",
+                "wikipediaId": "American football",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/American_football"
+            },
+            {
+                "bingId": "6ff32734-2ab0-2636-a1b0-1e2f5e94a701",
+                "matches": [
+                    {
+                        "length": 7,
+                        "offset": 211,
+                        "text": "NFL.com"
+                    }
+                ],
+                "name": "National Football League",
+                "wikipediaId": "National Football League",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Football_League"
+            }
+        ],
+        "textKeyPhrases": [
+            "leagues",
+            "Waiver Wire column",
+            "intensive waiver pools",
+            "Deep Dive",
+            "Fantasy football",
+            "players"
+        ],
+        "url": "http://www.nfl.com/fantasyfootball/story/0ap3000000963648/article/james-washington-leads-week-3-waiver-wire-deep-dive"
+    },
+    {
+        "category": "Sports",
+        "datePublished": "2018-09-17T23:26:00.0000000Z",
+        "description": "Marcas Grant and Michael Fabiano are back in studio to recap the fantasy highlights for Week 2! The guys start off with the biggest breaking news on Monday such as LeSean McCoy's injury and Carson Wentz being named the Week 3 starter for the Eagles (2:40).",
+        "headlineSentiment": 0.5,
+        "name": "Fantasy Live Podcast: Wrapping up Sunday's action",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "4a1de04d-bb0b-fe94-b4d0-5e898837c67d",
+                "matches": [
+                    {
+                        "length": 12,
+                        "offset": 164,
+                        "text": "LeSean McCoy"
+                    }
+                ],
+                "name": "LeSean McCoy",
+                "wikipediaId": "LeSean McCoy",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/LeSean_McCoy"
+            },
+            {
+                "bingId": "5574d52c-ba18-4cc6-a49e-a6f39cf59c66",
+                "matches": [
+                    {
+                        "length": 12,
+                        "offset": 190,
+                        "text": "Carson Wentz"
+                    }
+                ],
+                "name": "Carson Wentz",
+                "wikipediaId": "Carson Wentz",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Carson_Wentz"
+            },
+            {
+                "bingId": "0a9064b8-3451-d89c-8b48-3f4018e7d2fc",
+                "matches": [
+                    {
+                        "length": 8,
+                        "offset": 215,
+                        "text": "the Week"
+                    }
+                ],
+                "name": "The Week",
+                "wikipediaId": "The Week",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Week"
+            },
+            {
+                "bingId": "6e010b75-103f-1cf6-0c78-acf6527945af",
+                "matches": [
+                    {
+                        "length": 6,
+                        "offset": 242,
+                        "text": "Eagles"
+                    }
+                ],
+                "name": "Philadelphia Eagles",
+                "wikipediaId": "Philadelphia Eagles",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_Eagles"
+            }
+        ],
+        "textKeyPhrases": [
+            "Week",
+            "Carson Wentz",
+            "LeSean McCoy's injury",
+            "Michael Fabiano",
+            "studio",
+            "biggest breaking news",
+            "Marcas Grant",
+            "fantasy highlights",
+            "starter",
+            "guys"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963629/article/fantasy-live-podcast-wrapping-up-sundays-action"
+    },
+    {
+        "about": [
+            {
+                "name": "Deal",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6cafd233-2f2c-e64a-4047-8bc542989b5d"
+            },
+            {
+                "name": "Josh Gordon",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/5205f824-39ab-4afa-be30-ebafb131be20"
+            },
+            {
+                "name": "Trade",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/ccb288c8-3c0a-8269-a414-4c63e79b8257"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-17T23:06:00.0000000Z",
+        "description": "Here was a moment from Sunday afternoon that was long forgotten until about 24 hours later. Tom Brady's second pass of the day against the talented Jaguars defense? To Jacob Hollister, a second-year tight end who, with Sunday's game included, has exactly ...",
+        "headlineSentiment": 0.2496579885482788,
+        "name": "Josh Gordon trade: Deal a win-win for Patriots, troubled WR?",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "225835fe-facd-1623-61a8-5f351005181d",
+                "matches": [
+                    {
+                        "length": 9,
+                        "offset": 92,
+                        "text": "Tom Brady"
+                    }
+                ],
+                "name": "Tom Brady",
+                "wikipediaId": "Tom Brady",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Brady"
+            },
+            {
+                "bingId": "ee925e36-feee-68ad-171e-3736ba96bf13",
+                "matches": [
+                    {
+                        "length": 7,
+                        "offset": 148,
+                        "text": "Jaguars"
+                    }
+                ],
+                "name": "Jacksonville Jaguars",
+                "wikipediaId": "Jacksonville Jaguars",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacksonville_Jaguars"
+            }
+        ],
+        "textKeyPhrases": [
+            "year tight end",
+            "pass",
+            "Sunday's game",
+            "talented Jaguars defense",
+            "Tom Brady's",
+            "Jacob Hollister",
+            "afternoon",
+            "moment",
+            "hours"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963625/article/josh-gordon-trade-deal-a-winwin-for-patriots-troubled-wr",
+        "video": {
+            "name": "Josh Gordon trade: Deal a win-win for Patriots, troubled WR?",
+            "thumbnail": {
+                "height": 150,
+                "width": 200
+            },
+            "thumbnailUrl": "https://www.bing.com/th?id=ON.26D1E775BEED17E68C90D3B282642249&pid=News"
+        }
+    },
+    {
+        "about": [
+            {
+                "name": "Sam Bradford",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/bc1e3700-d396-513a-f0a8-c7ba67769c58"
+            },
+            {
+                "name": "Arizona Cardinals",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/c8cd7373-1ccb-46f5-b5de-784a68025c0d"
+            },
+            {
+                "name": "National Football League",
+                "readLink": "https://api.cognitive.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701"
+            }
+        ],
+        "category": "Sports",
+        "datePublished": "2018-09-17T22:57:00.0000000Z",
+        "description": "With only one touchdown to his name so far as an NFL head coach, Arizona Cardinals head coach Steve Wilks isn't hitting the panic button on the team's slow start. In the wake of their 34-0 thrashing by the Los Angeles Rams on Sunday, Wilks didn't indicate ...",
+        "headlineSentiment": 0.21154993772506714,
+        "name": "Cardinals coach: Team issues go beyond Sam Bradford",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "c8cd7373-1ccb-46f5-b5de-784a68025c0d",
+                "matches": [
+                    {
+                        "length": 17,
+                        "offset": 65,
+                        "text": "Arizona Cardinals"
+                    }
+                ],
+                "name": "Arizona Cardinals",
+                "wikipediaId": "Arizona Cardinals",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Arizona_Cardinals"
+            },
+            {
+                "bingId": "67ca590c-57ec-72b1-4a8f-5ba7c8c24b56",
+                "matches": [
+                    {
+                        "length": 16,
+                        "offset": 206,
+                        "text": "Los Angeles Rams"
+                    }
+                ],
+                "name": "History of the St. Louis Rams",
+                "wikipediaId": "History of the St. Louis Rams",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/History_of_the_St._Louis_Rams"
+            },
+            {
+                "bingId": "5dcee78d-03a1-8b51-bbbf-33f7b5e30c26",
+                "matches": [
+                    {
+                        "length": 14,
+                        "offset": 49,
+                        "text": "NFL head coach"
+                    }
+                ],
+                "name": "NFL Head Coach",
+                "wikipediaId": "NFL Head Coach",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/NFL_Head_Coach"
+            },
+            {
+                "bingId": "c387c653-768e-fdc9-3579-ba2f85c63c48",
+                "matches": [
+                    {
+                        "length": 11,
+                        "offset": 94,
+                        "text": "Steve Wilks"
+                    },
+                    {
+                        "length": 5,
+                        "offset": 234,
+                        "text": "Wilks"
+                    }
+                ],
+                "name": "Steve Wilks",
+                "wikipediaId": "Steve Wilks",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Wilks"
+            }
+        ],
+        "textKeyPhrases": [
+            "NFL head coach",
+            "Arizona Cardinals head coach Steve Wilks",
+            "panic button",
+            "thrashing",
+            "team's slow start",
+            "Los Angeles Rams",
+            "wake",
+            "touchdown"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963618/article/cardinals-coach-team-issues-go-beyond-sam-bradford"
+    },
+    {
+        "category": "Sports",
+        "datePublished": "2018-09-17T22:47:00.0000000Z",
+        "description": "Chad Johnson wouldn't need much to jump off the couch and join the reigning Super Bowl champs. Just a spot in the Eagles' receiving corps... and connectivity for all his devices. @Eagles I\u00e2 m in shape, literally ALWAYS open & faster than everyone there ...",
+        "headlineSentiment": 0.7826284170150757,
+        "image": {
+            "analysis": {
+                "adult": {
+                    "adultScore": 0.01432365458458662,
+                    "isAdultContent": false,
+                    "isRacyContent": false,
+                    "racyScore": 0.01719002239406109
+                },
+                "categories": [
+                    {
+                        "name": "others_",
+                        "score": 0.00390625
+                    },
+                    {
+                        "name": "people_portrait",
+                        "score": 0.48828125
+                    }
+                ],
+                "color": {
+                    "accentColor": "9C662F",
+                    "dominantColorBackground": "Grey",
+                    "dominantColorForeground": "Brown",
+                    "dominantColors": [
+                        "Grey",
+                        "Brown"
+                    ],
+                    "isBwImg": false
+                },
+                "description": {
+                    "captions": [
+                        {
+                            "confidence": 0.8848341246010784,
+                            "text": "a close up of a man"
+                        }
+                    ],
+                    "tags": [
+                        "person",
+                        "man",
+                        "game",
+                        "uniform",
+                        "looking",
+                        "baseball",
+                        "wearing",
+                        "bat",
+                        "player",
+                        "holding",
+                        "standing",
+                        "close",
+                        "ball",
+                        "street",
+                        "red",
+                        "black",
+                        "white",
+                        "sign",
+                        "field"
+                    ]
+                },
+                "faces": [],
+                "imageType": {
+                    "clipArtType": 0,
+                    "lineDrawingType": 0
+                },
+                "metadata": {
+                    "format": "Png",
+                    "height": 150,
+                    "width": 200
+                },
+                "requestId": "31e9f132-3bc2-4cd9-8043-b2e52fe33b8c",
+                "tags": [
+                    {
+                        "confidence": 0.9844022989273071,
+                        "name": "person"
+                    },
+                    {
+                        "confidence": 0.9003651738166809,
+                        "name": "man"
+                    },
+                    {
+                        "confidence": 0.6870036721229553,
+                        "name": "sport"
+                    }
+                ]
+            },
+            "contentUrl": "http://static.nfl.com/static/content/public/photo/2018/09/17/0ap3000000963614_thumbnail_200_150.jpg",
+            "faces": [],
+            "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ON.0CB5A180FD108FC4BE01482E73A774A7&pid=News",
+                "height": 150,
+                "width": 200
+            }
+        },
+        "name": "Chad Johnson wants to sign with Eagles for free WiFi",
+        "provider": [
+            {
+                "_type": "Organization",
+                "name": "NFL"
+            }
+        ],
+        "textEntities": [
+            {
+                "bingId": "c7e4bd0b-2a91-3666-a376-20aa88366223",
+                "matches": [
+                    {
+                        "length": 12,
+                        "offset": 0,
+                        "text": "Chad Johnson"
+                    }
+                ],
+                "name": "Chad Johnson",
+                "wikipediaId": "Chad Johnson",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Chad_Johnson"
+            },
+            {
+                "bingId": "ce1fece8-34c4-6249-a1aa-2e779294760e",
+                "matches": [
+                    {
+                        "length": 10,
+                        "offset": 76,
+                        "text": "Super Bowl"
+                    }
+                ],
+                "name": "Super Bowl",
+                "wikipediaId": "Super Bowl",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Super_Bowl"
+            },
+            {
+                "bingId": "6e010b75-103f-1cf6-0c78-acf6527945af",
+                "matches": [
+                    {
+                        "length": 6,
+                        "offset": 114,
+                        "text": "Eagles"
+                    },
+                    {
+                        "length": 6,
+                        "offset": 180,
+                        "text": "Eagles"
+                    }
+                ],
+                "name": "Philadelphia Eagles",
+                "wikipediaId": "Philadelphia Eagles",
+                "wikipediaLanguage": "en",
+                "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_Eagles"
+            }
+        ],
+        "textKeyPhrases": [
+            "shape",
+            "reigning Super Bowl champs",
+            "couch",
+            "Eagles I\u00e2",
+            "Chad Johnson",
+            "spot",
+            "Eagles'",
+            "connectivity",
+            "devices"
+        ],
+        "url": "http://www.nfl.com/news/story/0ap3000000963617/article/chad-johnson-wants-to-sign-with-eagles-for-free-wifi"
+    }
+]
